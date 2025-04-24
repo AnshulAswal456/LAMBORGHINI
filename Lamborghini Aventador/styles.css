@@ -723,7 +723,7 @@
     font-size: var(--normal-font-size);
   }
   .contact__container{
-    grid-template-columns: 450px;
+    grid-template-columns: 450px 500px;
     align-items: center;
     column-gap: 8rem;
     padding-bottom: 4rem;
