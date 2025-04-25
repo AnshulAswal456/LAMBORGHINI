@@ -157,8 +157,12 @@
     align-items: center;
 }
 .nav__logo{
-    color: var(--black-color);
-    font-weight: var(--font-bold);
+    width: 20rem;
+    margin-top: .5rem;
+    margin-right: 10rem;
+}
+.nav__logos{
+  width: 3rem;
 }
 .nav__toggle,
 .nav__close{
